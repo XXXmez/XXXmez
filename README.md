@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello, my name is **Ruslan Bogdanov**!
+
+## I'm a beginner front-end developer
+
+## 💼 Portfolio in developing 📋 CV in developing
+
+### Main Skills
+JavaScript HTML CSS
+
+### ✉️ Mail me: grymyl.rb@gmail.com
 
 <!--
 **XXXmez/XXXmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
