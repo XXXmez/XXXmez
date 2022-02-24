@@ -1,11 +1,16 @@
-# Hello, my name is **Ruslan Bogdanov**!
+# Hello, my name is Ruslan Bogdanov!
 
 ## I'm a beginner front-end developer
 
-## 💼 Portfolio in developing 📋 CV in developing
+## 💼 Portfolio in developing 
+## 📋 CV in developing
 
-### Main Skills
-JavaScript HTML CSS
+### Main Skills and Technologies
+![HTML]
+![CSS]
+![JS]
+![ReactJS]
+![GitHub]
 
 ### ✉️ Mail me: grymyl.rb@gmail.com
 
