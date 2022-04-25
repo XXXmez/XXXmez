@@ -2,15 +2,15 @@
 
 ## I'm a beginner front-end developer
 
-## 💼 Portfolio in developing 
-## 📋 CV in developing
+<!-- ## 💼 Portfolio in developing  -->
+<!-- ## 📋 CV in developing -->
 
-### Main Skills and Technologies
+<!-- ### Main Skills and Technologies
 ![HTML]
 ![CSS]
 ![JS]
 ![ReactJS]
-![GitHub]
+![GitHub] -->
 
 ### ✉️ Mail me: grymyl.rb@gmail.com
 
