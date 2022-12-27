@@ -1,14 +1,14 @@
 # Hello, my name is Ruslan Bogdanov!
 
-## **GitHub stats
+## GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXmez&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## **CodeWars
+## CodeWars
 
 [![CodeWars](https://www.codewars.com/users/xxxmez/badges/large)](https://www.codewars.com/users/xxxmez)
 
-## **Skills
+## Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=#dd472a)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
