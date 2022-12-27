@@ -2,7 +2,7 @@
 
 ## I'm a beginner front-end developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXmez)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXmez&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 💼 Portfolio in developing  -->
 <!-- ## 📋 CV in developing -->
