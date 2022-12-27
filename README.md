@@ -5,16 +5,13 @@
 [![CodeWars](https://www.codewars.com/users/xxxmez/badges/large)](https://www.codewars.com/users/xxxmez)
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=#dd472a)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![TS](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 
 <!-- ## 💼 Portfolio in developing  -->
 <!-- ## 📋 CV in developing -->
-
-<!-- ### Main Skills and Technologies
-![HTML] 
-![CSS]
-![JS]
-![ReactJS]
-![GitHub] -->
 
 ### ✉️ Mail me: grymyl.rb@gmail.com
 
