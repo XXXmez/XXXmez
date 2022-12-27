@@ -3,7 +3,7 @@
 ## I'm a beginner front-end developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXmez&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-(https://www.codewars.com/users/xxxmez/badges/large)
+[![CodeWars](https://www.codewars.com/users/xxxmez/badges/large)](https://www.codewars.com/users/xxxmez)
 
 <!-- ## 💼 Portfolio in developing  -->
 <!-- ## 📋 CV in developing -->
