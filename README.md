@@ -1,9 +1,5 @@
 # Hello, my name is Ruslan Bogdanov!
 
-## GitHub stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XXXmez&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## CodeWars
 
 [![CodeWars](https://www.codewars.com/users/xxxmez/badges/large)](https://www.codewars.com/users/xxxmez)
