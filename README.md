@@ -21,7 +21,7 @@
 
 ### ✉️ Mail me: grymyl.rb@gmail.com
 
-### My portfolio : ![Link](https://xxxmez.netlify.app/)
+### My portfolio : [Link](https://xxxmez.netlify.app/)
 
 <!--
 **XXXmez/XXXmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
