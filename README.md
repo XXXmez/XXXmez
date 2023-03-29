@@ -2,7 +2,7 @@
 
 ## CodeWars
 
-[![CodeWars](https://www.codewars.com/users/xxxmez/badges/large)](https://www.codewars.com/users/xxxmez)
+[![CodeWars](https://www.codewars.com/users/rsschool_fc0938230b14143b/badges/micro)
 
 ## Skills
 
