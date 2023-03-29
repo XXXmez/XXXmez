@@ -2,7 +2,7 @@
 
 ## CodeWars
 
-[![CodeWars](https://www.codewars.com/users/rsschool_fc0938230b14143b/badges/micro)
+![CodeWars](https://www.codewars.com/users/rsschool_fc0938230b14143b/badges/micro)
 
 ## Skills
 
