@@ -11,6 +11,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![TS](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=cyan)
 
 <!-- ## 💼 Portfolio in developing  -->
 <!-- ## 📋 CV in developing -->
